@@ -1,0 +1,16 @@
+C:\Users\alanr\source\repos\UTN\CLASE 1\Ejercicio 1\bin\Debug\net5.0\Ejercicio I01 - Máximo, mínimo y promedio.exe
+C:\Users\alanr\source\repos\UTN\CLASE 1\Ejercicio 1\bin\Debug\net5.0\Ejercicio I01 - Máximo, mínimo y promedio.deps.json
+C:\Users\alanr\source\repos\UTN\CLASE 1\Ejercicio 1\bin\Debug\net5.0\Ejercicio I01 - Máximo, mínimo y promedio.runtimeconfig.json
+C:\Users\alanr\source\repos\UTN\CLASE 1\Ejercicio 1\bin\Debug\net5.0\Ejercicio I01 - Máximo, mínimo y promedio.runtimeconfig.dev.json
+C:\Users\alanr\source\repos\UTN\CLASE 1\Ejercicio 1\bin\Debug\net5.0\Ejercicio I01 - Máximo, mínimo y promedio.dll
+C:\Users\alanr\source\repos\UTN\CLASE 1\Ejercicio 1\bin\Debug\net5.0\Ejercicio I01 - Máximo, mínimo y promedio.pdb
+C:\Users\alanr\source\repos\UTN\CLASE 1\Ejercicio 1\obj\Debug\net5.0\Ejercicio I01 - Máximo, mínimo y promedio.csproj.AssemblyReference.cache
+C:\Users\alanr\source\repos\UTN\CLASE 1\Ejercicio 1\obj\Debug\net5.0\Ejercicio I01 - Máximo, mínimo y promedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alanr\source\repos\UTN\CLASE 1\Ejercicio 1\obj\Debug\net5.0\Ejercicio I01 - Máximo, mínimo y promedio.AssemblyInfoInputs.cache
+C:\Users\alanr\source\repos\UTN\CLASE 1\Ejercicio 1\obj\Debug\net5.0\Ejercicio I01 - Máximo, mínimo y promedio.AssemblyInfo.cs
+C:\Users\alanr\source\repos\UTN\CLASE 1\Ejercicio 1\obj\Debug\net5.0\Ejercicio I01 - Máximo, mínimo y promedio.csproj.CoreCompileInputs.cache
+C:\Users\alanr\source\repos\UTN\CLASE 1\Ejercicio 1\obj\Debug\net5.0\Ejercicio I01 - Máximo, mínimo y promedio.dll
+C:\Users\alanr\source\repos\UTN\CLASE 1\Ejercicio 1\obj\Debug\net5.0\refint\Ejercicio I01 - Máximo, mínimo y promedio.dll
+C:\Users\alanr\source\repos\UTN\CLASE 1\Ejercicio 1\obj\Debug\net5.0\Ejercicio I01 - Máximo, mínimo y promedio.pdb
+C:\Users\alanr\source\repos\UTN\CLASE 1\Ejercicio 1\obj\Debug\net5.0\Ejercicio I01 - Máximo, mínimo y promedio.genruntimeconfig.cache
+C:\Users\alanr\source\repos\UTN\CLASE 1\Ejercicio 1\obj\Debug\net5.0\ref\Ejercicio I01 - Máximo, mínimo y promedio.dll

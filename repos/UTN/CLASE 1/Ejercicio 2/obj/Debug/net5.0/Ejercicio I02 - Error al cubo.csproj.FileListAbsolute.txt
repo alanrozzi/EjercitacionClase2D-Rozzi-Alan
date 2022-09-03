@@ -1,0 +1,16 @@
+C:\Users\alanr\source\repos\UTN\CLASE 1\Ejercicio 2\bin\Debug\net5.0\Ejercicio I02 - Error al cubo.exe
+C:\Users\alanr\source\repos\UTN\CLASE 1\Ejercicio 2\bin\Debug\net5.0\Ejercicio I02 - Error al cubo.deps.json
+C:\Users\alanr\source\repos\UTN\CLASE 1\Ejercicio 2\bin\Debug\net5.0\Ejercicio I02 - Error al cubo.runtimeconfig.json
+C:\Users\alanr\source\repos\UTN\CLASE 1\Ejercicio 2\bin\Debug\net5.0\Ejercicio I02 - Error al cubo.runtimeconfig.dev.json
+C:\Users\alanr\source\repos\UTN\CLASE 1\Ejercicio 2\bin\Debug\net5.0\Ejercicio I02 - Error al cubo.dll
+C:\Users\alanr\source\repos\UTN\CLASE 1\Ejercicio 2\bin\Debug\net5.0\Ejercicio I02 - Error al cubo.pdb
+C:\Users\alanr\source\repos\UTN\CLASE 1\Ejercicio 2\obj\Debug\net5.0\Ejercicio I02 - Error al cubo.csproj.AssemblyReference.cache
+C:\Users\alanr\source\repos\UTN\CLASE 1\Ejercicio 2\obj\Debug\net5.0\Ejercicio I02 - Error al cubo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alanr\source\repos\UTN\CLASE 1\Ejercicio 2\obj\Debug\net5.0\Ejercicio I02 - Error al cubo.AssemblyInfoInputs.cache
+C:\Users\alanr\source\repos\UTN\CLASE 1\Ejercicio 2\obj\Debug\net5.0\Ejercicio I02 - Error al cubo.AssemblyInfo.cs
+C:\Users\alanr\source\repos\UTN\CLASE 1\Ejercicio 2\obj\Debug\net5.0\Ejercicio I02 - Error al cubo.csproj.CoreCompileInputs.cache
+C:\Users\alanr\source\repos\UTN\CLASE 1\Ejercicio 2\obj\Debug\net5.0\Ejercicio I02 - Error al cubo.dll
+C:\Users\alanr\source\repos\UTN\CLASE 1\Ejercicio 2\obj\Debug\net5.0\refint\Ejercicio I02 - Error al cubo.dll
+C:\Users\alanr\source\repos\UTN\CLASE 1\Ejercicio 2\obj\Debug\net5.0\Ejercicio I02 - Error al cubo.pdb
+C:\Users\alanr\source\repos\UTN\CLASE 1\Ejercicio 2\obj\Debug\net5.0\Ejercicio I02 - Error al cubo.genruntimeconfig.cache
+C:\Users\alanr\source\repos\UTN\CLASE 1\Ejercicio 2\obj\Debug\net5.0\ref\Ejercicio I02 - Error al cubo.dll

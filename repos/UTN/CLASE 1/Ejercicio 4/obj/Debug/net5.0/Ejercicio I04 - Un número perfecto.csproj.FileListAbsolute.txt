@@ -1,0 +1,32 @@
+C:\Users\alanr\source\repos\UTN\Ejercicio 4\bin\Debug\net5.0\Ejercicio I04 - Un número perfecto.exe
+C:\Users\alanr\source\repos\UTN\Ejercicio 4\bin\Debug\net5.0\Ejercicio I04 - Un número perfecto.deps.json
+C:\Users\alanr\source\repos\UTN\Ejercicio 4\bin\Debug\net5.0\Ejercicio I04 - Un número perfecto.runtimeconfig.json
+C:\Users\alanr\source\repos\UTN\Ejercicio 4\bin\Debug\net5.0\Ejercicio I04 - Un número perfecto.runtimeconfig.dev.json
+C:\Users\alanr\source\repos\UTN\Ejercicio 4\bin\Debug\net5.0\Ejercicio I04 - Un número perfecto.dll
+C:\Users\alanr\source\repos\UTN\Ejercicio 4\bin\Debug\net5.0\Ejercicio I04 - Un número perfecto.pdb
+C:\Users\alanr\source\repos\UTN\Ejercicio 4\obj\Debug\net5.0\Ejercicio I04 - Un número perfecto.csproj.AssemblyReference.cache
+C:\Users\alanr\source\repos\UTN\Ejercicio 4\obj\Debug\net5.0\Ejercicio I04 - Un número perfecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alanr\source\repos\UTN\Ejercicio 4\obj\Debug\net5.0\Ejercicio I04 - Un número perfecto.AssemblyInfoInputs.cache
+C:\Users\alanr\source\repos\UTN\Ejercicio 4\obj\Debug\net5.0\Ejercicio I04 - Un número perfecto.AssemblyInfo.cs
+C:\Users\alanr\source\repos\UTN\Ejercicio 4\obj\Debug\net5.0\Ejercicio I04 - Un número perfecto.csproj.CoreCompileInputs.cache
+C:\Users\alanr\source\repos\UTN\Ejercicio 4\obj\Debug\net5.0\Ejercicio I04 - Un número perfecto.dll
+C:\Users\alanr\source\repos\UTN\Ejercicio 4\obj\Debug\net5.0\refint\Ejercicio I04 - Un número perfecto.dll
+C:\Users\alanr\source\repos\UTN\Ejercicio 4\obj\Debug\net5.0\Ejercicio I04 - Un número perfecto.pdb
+C:\Users\alanr\source\repos\UTN\Ejercicio 4\obj\Debug\net5.0\Ejercicio I04 - Un número perfecto.genruntimeconfig.cache
+C:\Users\alanr\source\repos\UTN\Ejercicio 4\obj\Debug\net5.0\ref\Ejercicio I04 - Un número perfecto.dll
+C:\Users\alanr\source\repos\UTN\CLASE 1\Ejercicio 4\bin\Debug\net5.0\Ejercicio I04 - Un número perfecto.exe
+C:\Users\alanr\source\repos\UTN\CLASE 1\Ejercicio 4\bin\Debug\net5.0\Ejercicio I04 - Un número perfecto.deps.json
+C:\Users\alanr\source\repos\UTN\CLASE 1\Ejercicio 4\bin\Debug\net5.0\Ejercicio I04 - Un número perfecto.runtimeconfig.json
+C:\Users\alanr\source\repos\UTN\CLASE 1\Ejercicio 4\bin\Debug\net5.0\Ejercicio I04 - Un número perfecto.runtimeconfig.dev.json
+C:\Users\alanr\source\repos\UTN\CLASE 1\Ejercicio 4\bin\Debug\net5.0\Ejercicio I04 - Un número perfecto.dll
+C:\Users\alanr\source\repos\UTN\CLASE 1\Ejercicio 4\bin\Debug\net5.0\Ejercicio I04 - Un número perfecto.pdb
+C:\Users\alanr\source\repos\UTN\CLASE 1\Ejercicio 4\obj\Debug\net5.0\Ejercicio I04 - Un número perfecto.csproj.AssemblyReference.cache
+C:\Users\alanr\source\repos\UTN\CLASE 1\Ejercicio 4\obj\Debug\net5.0\Ejercicio I04 - Un número perfecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alanr\source\repos\UTN\CLASE 1\Ejercicio 4\obj\Debug\net5.0\Ejercicio I04 - Un número perfecto.AssemblyInfoInputs.cache
+C:\Users\alanr\source\repos\UTN\CLASE 1\Ejercicio 4\obj\Debug\net5.0\Ejercicio I04 - Un número perfecto.AssemblyInfo.cs
+C:\Users\alanr\source\repos\UTN\CLASE 1\Ejercicio 4\obj\Debug\net5.0\Ejercicio I04 - Un número perfecto.csproj.CoreCompileInputs.cache
+C:\Users\alanr\source\repos\UTN\CLASE 1\Ejercicio 4\obj\Debug\net5.0\Ejercicio I04 - Un número perfecto.dll
+C:\Users\alanr\source\repos\UTN\CLASE 1\Ejercicio 4\obj\Debug\net5.0\refint\Ejercicio I04 - Un número perfecto.dll
+C:\Users\alanr\source\repos\UTN\CLASE 1\Ejercicio 4\obj\Debug\net5.0\Ejercicio I04 - Un número perfecto.pdb
+C:\Users\alanr\source\repos\UTN\CLASE 1\Ejercicio 4\obj\Debug\net5.0\Ejercicio I04 - Un número perfecto.genruntimeconfig.cache
+C:\Users\alanr\source\repos\UTN\CLASE 1\Ejercicio 4\obj\Debug\net5.0\ref\Ejercicio I04 - Un número perfecto.dll

@@ -1,0 +1,32 @@
+C:\Users\alanr\source\repos\UTN\Ejercicio I07 - Recibo de sueldo\bin\Debug\net5.0\Ejercicio I07 - Recibo de sueldo.exe
+C:\Users\alanr\source\repos\UTN\Ejercicio I07 - Recibo de sueldo\bin\Debug\net5.0\Ejercicio I07 - Recibo de sueldo.deps.json
+C:\Users\alanr\source\repos\UTN\Ejercicio I07 - Recibo de sueldo\bin\Debug\net5.0\Ejercicio I07 - Recibo de sueldo.runtimeconfig.json
+C:\Users\alanr\source\repos\UTN\Ejercicio I07 - Recibo de sueldo\bin\Debug\net5.0\Ejercicio I07 - Recibo de sueldo.runtimeconfig.dev.json
+C:\Users\alanr\source\repos\UTN\Ejercicio I07 - Recibo de sueldo\bin\Debug\net5.0\Ejercicio I07 - Recibo de sueldo.dll
+C:\Users\alanr\source\repos\UTN\Ejercicio I07 - Recibo de sueldo\bin\Debug\net5.0\Ejercicio I07 - Recibo de sueldo.pdb
+C:\Users\alanr\source\repos\UTN\Ejercicio I07 - Recibo de sueldo\obj\Debug\net5.0\Ejercicio I07 - Recibo de sueldo.csproj.AssemblyReference.cache
+C:\Users\alanr\source\repos\UTN\Ejercicio I07 - Recibo de sueldo\obj\Debug\net5.0\Ejercicio I07 - Recibo de sueldo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alanr\source\repos\UTN\Ejercicio I07 - Recibo de sueldo\obj\Debug\net5.0\Ejercicio I07 - Recibo de sueldo.AssemblyInfoInputs.cache
+C:\Users\alanr\source\repos\UTN\Ejercicio I07 - Recibo de sueldo\obj\Debug\net5.0\Ejercicio I07 - Recibo de sueldo.AssemblyInfo.cs
+C:\Users\alanr\source\repos\UTN\Ejercicio I07 - Recibo de sueldo\obj\Debug\net5.0\Ejercicio I07 - Recibo de sueldo.csproj.CoreCompileInputs.cache
+C:\Users\alanr\source\repos\UTN\Ejercicio I07 - Recibo de sueldo\obj\Debug\net5.0\Ejercicio I07 - Recibo de sueldo.dll
+C:\Users\alanr\source\repos\UTN\Ejercicio I07 - Recibo de sueldo\obj\Debug\net5.0\refint\Ejercicio I07 - Recibo de sueldo.dll
+C:\Users\alanr\source\repos\UTN\Ejercicio I07 - Recibo de sueldo\obj\Debug\net5.0\Ejercicio I07 - Recibo de sueldo.pdb
+C:\Users\alanr\source\repos\UTN\Ejercicio I07 - Recibo de sueldo\obj\Debug\net5.0\Ejercicio I07 - Recibo de sueldo.genruntimeconfig.cache
+C:\Users\alanr\source\repos\UTN\Ejercicio I07 - Recibo de sueldo\obj\Debug\net5.0\ref\Ejercicio I07 - Recibo de sueldo.dll
+C:\Users\alanr\source\repos\UTN\CLASE 1\Ejercicio I07 - Recibo de sueldo\bin\Debug\net5.0\Ejercicio I07 - Recibo de sueldo.exe
+C:\Users\alanr\source\repos\UTN\CLASE 1\Ejercicio I07 - Recibo de sueldo\bin\Debug\net5.0\Ejercicio I07 - Recibo de sueldo.deps.json
+C:\Users\alanr\source\repos\UTN\CLASE 1\Ejercicio I07 - Recibo de sueldo\bin\Debug\net5.0\Ejercicio I07 - Recibo de sueldo.runtimeconfig.json
+C:\Users\alanr\source\repos\UTN\CLASE 1\Ejercicio I07 - Recibo de sueldo\bin\Debug\net5.0\Ejercicio I07 - Recibo de sueldo.runtimeconfig.dev.json
+C:\Users\alanr\source\repos\UTN\CLASE 1\Ejercicio I07 - Recibo de sueldo\bin\Debug\net5.0\Ejercicio I07 - Recibo de sueldo.dll
+C:\Users\alanr\source\repos\UTN\CLASE 1\Ejercicio I07 - Recibo de sueldo\bin\Debug\net5.0\Ejercicio I07 - Recibo de sueldo.pdb
+C:\Users\alanr\source\repos\UTN\CLASE 1\Ejercicio I07 - Recibo de sueldo\obj\Debug\net5.0\Ejercicio I07 - Recibo de sueldo.csproj.AssemblyReference.cache
+C:\Users\alanr\source\repos\UTN\CLASE 1\Ejercicio I07 - Recibo de sueldo\obj\Debug\net5.0\Ejercicio I07 - Recibo de sueldo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alanr\source\repos\UTN\CLASE 1\Ejercicio I07 - Recibo de sueldo\obj\Debug\net5.0\Ejercicio I07 - Recibo de sueldo.AssemblyInfoInputs.cache
+C:\Users\alanr\source\repos\UTN\CLASE 1\Ejercicio I07 - Recibo de sueldo\obj\Debug\net5.0\Ejercicio I07 - Recibo de sueldo.AssemblyInfo.cs
+C:\Users\alanr\source\repos\UTN\CLASE 1\Ejercicio I07 - Recibo de sueldo\obj\Debug\net5.0\Ejercicio I07 - Recibo de sueldo.csproj.CoreCompileInputs.cache
+C:\Users\alanr\source\repos\UTN\CLASE 1\Ejercicio I07 - Recibo de sueldo\obj\Debug\net5.0\Ejercicio I07 - Recibo de sueldo.dll
+C:\Users\alanr\source\repos\UTN\CLASE 1\Ejercicio I07 - Recibo de sueldo\obj\Debug\net5.0\refint\Ejercicio I07 - Recibo de sueldo.dll
+C:\Users\alanr\source\repos\UTN\CLASE 1\Ejercicio I07 - Recibo de sueldo\obj\Debug\net5.0\Ejercicio I07 - Recibo de sueldo.pdb
+C:\Users\alanr\source\repos\UTN\CLASE 1\Ejercicio I07 - Recibo de sueldo\obj\Debug\net5.0\Ejercicio I07 - Recibo de sueldo.genruntimeconfig.cache
+C:\Users\alanr\source\repos\UTN\CLASE 1\Ejercicio I07 - Recibo de sueldo\obj\Debug\net5.0\ref\Ejercicio I07 - Recibo de sueldo.dll

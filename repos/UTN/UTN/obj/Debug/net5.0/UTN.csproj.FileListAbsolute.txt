@@ -1,0 +1,16 @@
+C:\Users\alanr\source\repos\UTN\UTN\bin\Debug\net5.0\UTN.exe
+C:\Users\alanr\source\repos\UTN\UTN\bin\Debug\net5.0\UTN.deps.json
+C:\Users\alanr\source\repos\UTN\UTN\bin\Debug\net5.0\UTN.runtimeconfig.json
+C:\Users\alanr\source\repos\UTN\UTN\bin\Debug\net5.0\UTN.runtimeconfig.dev.json
+C:\Users\alanr\source\repos\UTN\UTN\bin\Debug\net5.0\UTN.dll
+C:\Users\alanr\source\repos\UTN\UTN\bin\Debug\net5.0\UTN.pdb
+C:\Users\alanr\source\repos\UTN\UTN\obj\Debug\net5.0\UTN.csproj.AssemblyReference.cache
+C:\Users\alanr\source\repos\UTN\UTN\obj\Debug\net5.0\UTN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alanr\source\repos\UTN\UTN\obj\Debug\net5.0\UTN.AssemblyInfoInputs.cache
+C:\Users\alanr\source\repos\UTN\UTN\obj\Debug\net5.0\UTN.AssemblyInfo.cs
+C:\Users\alanr\source\repos\UTN\UTN\obj\Debug\net5.0\UTN.csproj.CoreCompileInputs.cache
+C:\Users\alanr\source\repos\UTN\UTN\obj\Debug\net5.0\UTN.dll
+C:\Users\alanr\source\repos\UTN\UTN\obj\Debug\net5.0\refint\UTN.dll
+C:\Users\alanr\source\repos\UTN\UTN\obj\Debug\net5.0\UTN.pdb
+C:\Users\alanr\source\repos\UTN\UTN\obj\Debug\net5.0\UTN.genruntimeconfig.cache
+C:\Users\alanr\source\repos\UTN\UTN\obj\Debug\net5.0\ref\UTN.dll
