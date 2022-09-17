@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aerolineas", "Aerolineas\Aerolineas.csproj", "{EBFEC743-560F-4047-A3A8-BAF2EF55A198}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormsAero", "FormsAero\FormsAero.csproj", "{57337C67-A133-4431-9242-525325A76CD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBFEC743-560F-4047-A3A8-BAF2EF55A198}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBFEC743-560F-4047-A3A8-BAF2EF55A198}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBFEC743-560F-4047-A3A8-BAF2EF55A198}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBFEC743-560F-4047-A3A8-BAF2EF55A198}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57337C67-A133-4431-9242-525325A76CD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57337C67-A133-4431-9242-525325A76CD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57337C67-A133-4431-9242-525325A76CD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57337C67-A133-4431-9242-525325A76CD8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51693111-9CA3-438C-87E8-FD912783A5D7}
+	EndGlobalSection
+EndGlobal

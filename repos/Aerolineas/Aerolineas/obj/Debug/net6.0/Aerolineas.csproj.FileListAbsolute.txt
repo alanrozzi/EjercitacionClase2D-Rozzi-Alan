@@ -1,0 +1,12 @@
+C:\Users\alanr\source\repos\Aerolineas\Aerolineas\bin\Debug\net6.0\Aerolineas.deps.json
+C:\Users\alanr\source\repos\Aerolineas\Aerolineas\bin\Debug\net6.0\Aerolineas.dll
+C:\Users\alanr\source\repos\Aerolineas\Aerolineas\bin\Debug\net6.0\Aerolineas.pdb
+C:\Users\alanr\source\repos\Aerolineas\Aerolineas\obj\Debug\net6.0\Aerolineas.csproj.AssemblyReference.cache
+C:\Users\alanr\source\repos\Aerolineas\Aerolineas\obj\Debug\net6.0\Aerolineas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alanr\source\repos\Aerolineas\Aerolineas\obj\Debug\net6.0\Aerolineas.AssemblyInfoInputs.cache
+C:\Users\alanr\source\repos\Aerolineas\Aerolineas\obj\Debug\net6.0\Aerolineas.AssemblyInfo.cs
+C:\Users\alanr\source\repos\Aerolineas\Aerolineas\obj\Debug\net6.0\Aerolineas.csproj.CoreCompileInputs.cache
+C:\Users\alanr\source\repos\Aerolineas\Aerolineas\obj\Debug\net6.0\Aerolineas.dll
+C:\Users\alanr\source\repos\Aerolineas\Aerolineas\obj\Debug\net6.0\refint\Aerolineas.dll
+C:\Users\alanr\source\repos\Aerolineas\Aerolineas\obj\Debug\net6.0\Aerolineas.pdb
+C:\Users\alanr\source\repos\Aerolineas\Aerolineas\obj\Debug\net6.0\ref\Aerolineas.dll
